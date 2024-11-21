@@ -1,0 +1,64 @@
+body{
+    background-color:honeydew;
+}
+
+#titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-align: center;
+    color: darkcyan;
+}
+
+span{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-shadow: 1px;
+}
+
+#imagen{
+    width: 50%;
+    border-radius: 20px;
+    border-style:outset;
+}
+
+#familia{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    color: brown;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#estudios{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    color: chocolate;
+}
+
+#metas{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    color: maroon;
+}
+
+#pie{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: blue;
+}
